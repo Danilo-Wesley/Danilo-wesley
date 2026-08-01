@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre Mim
-- 🎓 Graduando em **Engenharia de Software** (1º Semestre) em Parauapebas - PA.
+- 🎓 Graduando em **Engenharia de Software** (2º Semestre) em Parauapebas - PA.
 - 💻 Focado em dominar os pilares do desenvolvimento web moderno.
 - 🎯 Buscando a primeira oportunidade de **Estágio em Desenvolvimento Front-End**.
 

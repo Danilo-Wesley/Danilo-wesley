@@ -16,9 +16,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Danilo-Wesley&theme=react&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danilo-Wesley&theme=react&hide_border=false" alt="GitHub Streak" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Danilo-Wesley&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Danilo-Wesley&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
 </div>
 
 ---
